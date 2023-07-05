@@ -1,0 +1,15 @@
+.Note {
+  position: relative;
+  margin-left: 10px;
+  &__childs {
+    margin-left: 10px;
+  }
+  &__title {
+
+  }
+  &__open {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+  }
+}
